@@ -1,0 +1,102 @@
+{
+  "01_koramangala_quiet": {
+    "transcript": "Haan main Koramangala mein rehta hoon",
+    "latency": 1.7688312370516581,
+    "cost": 0.0
+  },
+  "02_indiranagar_quiet": {
+    "transcript": "Mera ghar Indiranagar ke paas hai",
+    "latency": 1.9862364595939175,
+    "cost": 0.0
+  },
+  "03_whitefield_quiet": {
+    "transcript": "Main Whitefield se aata hoon \u0921\u0947\u0932\u0940",
+    "latency": 1.663178755664644,
+    "cost": 0.0
+  },
+  "04_electronic_city_quiet": {
+    "transcript": "company City mein hai",
+    "latency": 2.921482236215991,
+    "cost": 0.0
+  },
+  "05_marathahalli_quiet": {
+    "transcript": "Marathahalli mein \u091f\u094d\u0930\u0948\u092b\u093f\u0915 bahut hai",
+    "latency": 2.3610376569660656,
+    "cost": 0.0
+  },
+  "06_jayanagar_noisy": {
+    "transcript": "Main Jayanagar 4th block mein rehta hoon",
+    "latency": 1.2872717245101093,
+    "cost": 0.0
+  },
+  "07_rajajinagar_noisy": {
+    "transcript": "Rajajinagar se bus milti hai kya",
+    "latency": 1.7848367345688465,
+    "cost": 0.0
+  },
+  "08_hebbal_noisy": {
+    "transcript": "Hebbal flyover ke paas hai mera ghar",
+    "latency": 3.2435979149480136,
+    "cost": 0.0
+  },
+  "09_yelahanka_noisy": {
+    "transcript": "Yelahanka thoda door hai metro se",
+    "latency": 2.381666153516237,
+    "cost": 0.0
+  },
+  "10_banashankari_noisy": {
+    "transcript": "Banashankari temple ke paas rehti hoon",
+    "latency": 2.154269480083414,
+    "cost": 0.0
+  },
+  "11_hsr_layout_rushed": {
+    "transcript": "HSR Layout mein \u092b\u094d\u0932\u0948\u091f hai maine",
+    "latency": 1.6026908726913456,
+    "cost": 0.0
+  },
+  "12_btm_layout_rushed": {
+    "transcript": "BTM Layout 2nd stage mein hoon",
+    "latency": 1.8794483302611202,
+    "cost": 0.0
+  },
+  "13_majestic_rushed": {
+    "transcript": "Majestic bus stand se pakad lena bus",
+    "latency": 2.468350973845907,
+    "cost": 0.0
+  },
+  "14_silk_board_rushed": {
+    "transcript": "Silk Board junction pe jam hai",
+    "latency": 2.797142895164399,
+    "cost": 0.0
+  },
+  "15_bellandur_whispered": {
+    "transcript": "Bellandur lake ke paas hai \u0911\u092b\u093f\u0938",
+    "latency": 3.24685975681267,
+    "cost": 0.0
+  },
+  "16_sarjapur_whispered": {
+    "transcript": "Sarjapur road pe naya project aa raha",
+    "latency": 3.0961841320087573,
+    "cost": 0.0
+  },
+  "17_bommanahalli_whispered": {
+    "transcript": "Bommanahalli se Koramangala kitna time",
+    "latency": 3.42818260035238,
+    "cost": 0.0
+  },
+  "18_kr_puram_phone": {
+    "transcript": "KR Puram railway \u0938\u094d\u091f\u0947\u0936\u0928 ke paas hoon",
+    "latency": 2.70280685451257,
+    "cost": 0.0
+  },
+  "19_peenya_phone": {
+    "transcript": "Peenya Industrial Area mein kaam karta hoon",
+    "latency": 2.3658599442437493,
+    "cost": 0.0
+  },
+  "20_yeshwanthpur_phone": {
+    "transcript": "Yeshwanthpur se train pakadni hai",
+    "latency": 2.9085873327660354,
+    "cost": 0.0
+  }
+}

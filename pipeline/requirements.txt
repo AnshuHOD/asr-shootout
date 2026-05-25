@@ -1,0 +1,12 @@
+deepgram-sdk>=3.0.0
+openai-whisper
+jiwer
+pandas
+matplotlib
+tqdm
+python-dotenv
+requests
+sounddevice
+soundfile
+gTTS
+numpy

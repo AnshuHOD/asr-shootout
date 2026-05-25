@@ -1,0 +1,122 @@
+{
+  "01_koramangala_quiet": {
+    "locality": "Koramangala",
+    "full_text": "Haan main Koramangala mein rehta hoon",
+    "condition": "quiet",
+    "language": "hinglish"
+  },
+  "02_indiranagar_quiet": {
+    "locality": "Indiranagar",
+    "full_text": "Mera ghar Indiranagar ke paas hai",
+    "condition": "quiet",
+    "language": "hinglish"
+  },
+  "03_whitefield_quiet": {
+    "locality": "Whitefield",
+    "full_text": "Main Whitefield se aata hoon daily",
+    "condition": "quiet",
+    "language": "hinglish"
+  },
+  "04_electronic_city_quiet": {
+    "locality": "Electronic City",
+    "full_text": "Meri company Electronic City mein hai",
+    "condition": "quiet",
+    "language": "hinglish"
+  },
+  "05_marathahalli_quiet": {
+    "locality": "Marathahalli",
+    "full_text": "Bhai Marathahalli mein traffic bahut hai",
+    "condition": "quiet",
+    "language": "hinglish"
+  },
+  "06_jayanagar_noisy": {
+    "locality": "Jayanagar",
+    "full_text": "Main Jayanagar 4th block mein rehta hoon",
+    "condition": "noisy",
+    "language": "hinglish"
+  },
+  "07_rajajinagar_noisy": {
+    "locality": "Rajajinagar",
+    "full_text": "Rajajinagar se bus milti hai kya",
+    "condition": "noisy",
+    "language": "hinglish"
+  },
+  "08_hebbal_noisy": {
+    "locality": "Hebbal",
+    "full_text": "Hebbal flyover ke paas hai mera ghar",
+    "condition": "noisy",
+    "language": "hinglish"
+  },
+  "09_yelahanka_noisy": {
+    "locality": "Yelahanka",
+    "full_text": "Yelahanka thoda door hai metro se",
+    "condition": "noisy",
+    "language": "hinglish"
+  },
+  "10_banashankari_noisy": {
+    "locality": "Banashankari",
+    "full_text": "Banashankari temple ke paas rehti hoon",
+    "condition": "noisy",
+    "language": "hinglish"
+  },
+  "11_hsr_layout_rushed": {
+    "locality": "HSR Layout",
+    "full_text": "HSR Layout mein flat liya hai maine",
+    "condition": "rushed",
+    "language": "hinglish"
+  },
+  "12_btm_layout_rushed": {
+    "locality": "BTM Layout",
+    "full_text": "BTM Layout 2nd stage mein hoon",
+    "condition": "rushed",
+    "language": "hinglish"
+  },
+  "13_majestic_rushed": {
+    "locality": "Majestic",
+    "full_text": "Majestic bus stand se pakad lena bus",
+    "condition": "rushed",
+    "language": "hinglish"
+  },
+  "14_silk_board_rushed": {
+    "locality": "Silk Board",
+    "full_text": "Silk Board junction pe jam lagta hai",
+    "condition": "rushed",
+    "language": "hinglish"
+  },
+  "15_bellandur_whispered": {
+    "locality": "Bellandur",
+    "full_text": "Bellandur lake ke paas hai office",
+    "condition": "whispered",
+    "language": "hinglish"
+  },
+  "16_sarjapur_whispered": {
+    "locality": "Sarjapur",
+    "full_text": "Sarjapur road pe naya project aa raha",
+    "condition": "whispered",
+    "language": "hinglish"
+  },
+  "17_bommanahalli_whispered": {
+    "locality": "Bommanahalli",
+    "full_text": "Bommanahalli se Koramangala kitna time",
+    "condition": "whispered",
+    "language": "hinglish"
+  },
+  "18_kr_puram_phone": {
+    "locality": "KR Puram",
+    "full_text": "KR Puram railway station ke paas hoon",
+    "condition": "phone",
+    "language": "hinglish"
+  },
+  "19_peenya_phone": {
+    "locality": "Peenya",
+    "full_text": "Peenya Industrial Area mein kaam karta hoon",
+    "condition": "phone",
+    "language": "hinglish"
+  },
+  "20_yeshwanthpur_phone": {
+    "locality": "Yeshwanthpur",
+    "full_text": "Yeshwanthpur se train pakadni hai mujhe",
+    "condition": "phone",
+    "language": "hinglish"
+  }
+}
