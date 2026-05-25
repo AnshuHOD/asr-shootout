@@ -23,3 +23,6 @@ Thumbs.db
 # Tasks and system logs (optional, keeping results intact)
 *.log
 .gemini/
+
+# Personal guide files
+RUN_GUIDE.md
